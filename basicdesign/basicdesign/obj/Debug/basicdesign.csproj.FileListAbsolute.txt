@@ -1,0 +1,17 @@
+C:\Users\Travis\source\repos\basicdesign\basicdesign\bin\Debug\basicdesign.exe.config
+C:\Users\Travis\source\repos\basicdesign\basicdesign\bin\Debug\basicdesign.exe
+C:\Users\Travis\source\repos\basicdesign\basicdesign\bin\Debug\basicdesign.pdb
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign.csprojAssemblyReference.cache
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\MainWindow.g.cs
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\App.g.cs
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign_MarkupCompile.cache
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign_MarkupCompile.lref
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\App.baml
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\Dock Style.baml
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\MainWindow.baml
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign.g.resources
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign.Properties.Resources.resources
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign.csproj.GenerateResource.cache
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign.exe
+C:\Users\Travis\source\repos\basicdesign\basicdesign\obj\Debug\basicdesign.pdb
