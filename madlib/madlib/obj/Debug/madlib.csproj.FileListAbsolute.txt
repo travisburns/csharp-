@@ -1,0 +1,6 @@
+C:\Users\Travis\source\repos\madlib\madlib\bin\Debug\madlib.exe.config
+C:\Users\Travis\source\repos\madlib\madlib\bin\Debug\madlib.exe
+C:\Users\Travis\source\repos\madlib\madlib\bin\Debug\madlib.pdb
+C:\Users\Travis\source\repos\madlib\madlib\obj\Debug\madlib.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\madlib\madlib\obj\Debug\madlib.exe
+C:\Users\Travis\source\repos\madlib\madlib\obj\Debug\madlib.pdb
