@@ -1,0 +1,6 @@
+C:\Users\Travis\source\repos\bettercalculator\bettercalculator\bin\Debug\bettercalculator.exe.config
+C:\Users\Travis\source\repos\bettercalculator\bettercalculator\bin\Debug\bettercalculator.exe
+C:\Users\Travis\source\repos\bettercalculator\bettercalculator\bin\Debug\bettercalculator.pdb
+C:\Users\Travis\source\repos\bettercalculator\bettercalculator\obj\Debug\bettercalculator.csproj.CoreCompileInputs.cache
+C:\Users\Travis\source\repos\bettercalculator\bettercalculator\obj\Debug\bettercalculator.exe
+C:\Users\Travis\source\repos\bettercalculator\bettercalculator\obj\Debug\bettercalculator.pdb
